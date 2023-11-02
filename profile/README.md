@@ -4,9 +4,9 @@
 <h1 align="center">Bachelor Project Autonomous Driving</h1>
 
 <div align="center">
-  <a href="h">Documentation</a>
+  <a href="https://github.com/VU-BPAD/docs">Documentation</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="">Contributor knowledge base</a>
+  <a href="https://github.com/VU-BPAD/docs-internal">Contributor knowledge base</a>
   <br />
 </div>
 <br/>
