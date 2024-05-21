@@ -4,15 +4,11 @@
 <h1 align="center">Autonomous Systems Engineering</h1>
 
 <div align="center">
-  <a href="https://vu-ase.github.io/site">Course information</a>
+  <a href="https://ase.vu.nl">Course information</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://vu-ase.github.io/docs">Documentation</a>
+  <a href="https://docs.ase.vu.nl">Documentation</a>
   <br />
 </div>
 <br/>
 
-**Welcome to the Autonomous Systems Engineering labs! This GitHub Organization houses all repositories and code necessary to get you set up.**
-
-# Getting started
-
-Please find all information and documentation at our [docs](https://vu-ase.github.io/docs).
+**Welcome to the Autonomous Systems Engineering (ASE) labs at the Vrije Universiteit Amsterdam! This GitHub Organization is a collection of all public and private repositories and code used to participate in the VU ASE course.** To get started, head over to our [docs](https://docs.ase.vu.nl)
